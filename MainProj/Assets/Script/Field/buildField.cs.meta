@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59cbe28955c64bd49821fb2c23e65ed5
+timeCreated: 1478866808
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fieldSetup: {instanceID: 0}
+  - horizontalPile: {fileID: 113630, guid: 7c921241338804a4b9ccbff08665b43d, type: 2}
+  - verticalPile: {fileID: 181116, guid: 9f993b247cf10874092378e22cbb69a2, type: 2}
+  - wallBlock: {fileID: 139872, guid: de5c160ceff186e49aa022fca4689d9a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
